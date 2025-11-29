@@ -1,5 +1,62 @@
 {
   "thumbnail": "https://mechabrandon.github.io/dlesportstemp/gdshowdown.png",
   "color": "#3c74c9",
-  "text": "# Geometry Dash America Showdown\n\n## Overview\nThe biggest event in Latin America returns with a brand-new look! 🌎\n\n'Geometry Dash America Showdown' brings together the eight best countries on the continent who will compete to find the country with the best players in the region! 🏆\n\n### Event Details\n**Location:** [DemonList YouTube channel](https://youtube.com/@DemonListGD)"
+
+  "infoGeneral": "# Geometry Dash Esports\n\nGeometry Dash Esports es la competición oficial donde 10 equipos luchan a lo largo de múltiples jornadas por un lugar en los Playoffs. La liga está diseñada para ofrecer enfrentamientos equilibrados, emoción constante y un formato profesional inspirado en grandes ligas deportivas. 🏆",
+
+  "tablaClasificacion": {
+    "titulo": "📊 Tabla de Clasificación",
+    "columnas": [
+      "Logo",
+      "Equipo",
+      "JJ",
+      "V",
+      "E",
+      "D",
+      "Puntos"
+    ],
+    "equipos": [
+      { "logo": "", "nombre": "Equipo 1",  "JJ": 0, "V": 0, "E": 0, "D": 0, "Puntos": 0 },
+      { "logo": "", "nombre": "Equipo 2",  "JJ": 0, "V": 0, "E": 0, "D": 0, "Puntos": 0 },
+      { "logo": "", "nombre": "Equipo 3",  "JJ": 0, "V": 0, "E": 0, "D": 0, "Puntos": 0 },
+      { "logo": "", "nombre": "Equipo 4",  "JJ": 0, "V": 0, "E": 0, "D": 0, "Puntos": 0 },
+      { "logo": "", "nombre": "Equipo 5",  "JJ": 0, "V": 0, "E": 0, "D": 0, "Puntos": 0 },
+      { "logo": "", "nombre": "Equipo 6",  "JJ": 0, "V": 0, "E": 0, "D": 0, "Puntos": 0 },
+      { "logo": "", "nombre": "Equipo 7",  "JJ": 0, "V": 0, "E": 0, "D": 0, "Puntos": 0 },
+      { "logo": "", "nombre": "Equipo 8",  "JJ": 0, "V": 0, "E": 0, "D": 0, "Puntos": 0 },
+      { "logo": "", "nombre": "Equipo 9",  "JJ": 0, "V": 0, "E": 0, "D": 0, "Puntos": 0 },
+      { "logo": "", "nombre": "Equipo 10", "JJ": 0, "V": 0, "E": 0, "D": 0, "Puntos": 0 }
+    ]
+  },
+
+  "jornadas": {
+    "titulo": "📅 Horarios de las Jornadas",
+    "jornada1": [
+      { "partido": "Equipo A vs Equipo B", "hora": "" },
+      { "partido": "Equipo C vs Equipo D", "hora": "" },
+      { "partido": "Equipo E vs Equipo F", "hora": "" },
+      { "partido": "Equipo G vs Equipo H", "hora": "" },
+      { "partido": "Equipo I vs Equipo J", "hora": "" }
+    ],
+    "jornada2": [
+      { "partido": "", "hora": "" },
+      { "partido": "", "hora": "" },
+      { "partido": "", "hora": "" },
+      { "partido": "", "hora": "" },
+      { "partido": "", "hora": "" }
+    ],
+    "jornada3": [],
+    "jornada4": [],
+    "jornada5": [],
+    "jornada6": [],
+    "jornada7": [],
+    "jornada8": [],
+    "jornada9": []
+  },
+
+  "playoffs": {
+    "titulo": "🏅 Playoffs",
+    "descripcion": "Aquí puedes subir la imagen oficial del cuadro de Playoffs cuando inicie la fase final.",
+    "imagen": ""
+  }
 }
